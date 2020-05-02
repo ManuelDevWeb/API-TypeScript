@@ -1,0 +1,12 @@
+1. Ejecutar: npm init
+2. Instalar: npm install -g typescript
+3. Ejecutar: tsc --init //Configuracion de TypeScript
+4. En tsconfig poner: "target":"es6", "outDir": "/carpeta",
+5. Instalar paquetes: npm i express mongoose morgan helmet cors compression --save
+6. Crear archivo src/server.ts
+7. Instalar: npm install @types/node @types/mongoose @types/express @types/morgan @types/helmet @types/compression @types/cors nodemon typescript -D
+8. Congifurar los Scripts de package.json
+9. Configuracion y creacion de las rutas
+10. Conexion a la BD
+11. Continuar con las demas rutas y sus respectivo metodos
+12. Ir probando con postMan
